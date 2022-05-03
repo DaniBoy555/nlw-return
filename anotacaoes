@@ -1,0 +1,35 @@
+HTMML e a instrutura do noosso texto
+
+<!---
+HTMML
+HyperText
+links
+Markup
+Tags - Marcação de texto
+language
+maneira de escrever
+
+-->
+
+
+
+imagem não tem conteudo então a tag img não tem fechamento
+
+head siguinifica cabeça
+são cinfiguraçoes do codigo
+
+body siguinifica corpo
+tudo que colocar no corpo irar aparecer
+
+
+viwport e toda janela em branco
+todo o conteudo da pagina
+
+
+css
+E a estitilização da pagina
+Para deixar a pagina acessivel para todos os tipos de publicos voce pode usar uma unidade de medida REM
+
+assim voce poderar colcoar o root no css para ajustar todo o layout da pagina
+
+tudo que tem dentro do css e do html são caixas
